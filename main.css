@@ -1,0 +1,11 @@
+#coin-section {
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+}
+
+#coin-section img {
+  height: auto;
+  width: 100%;
+  padding-top: 15px;
+}
