@@ -1,1 +1,1 @@
-const side = 'heads';
+const side = 'tails';
